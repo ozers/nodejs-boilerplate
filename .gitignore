@@ -1,0 +1,6 @@
+.env
+node_modules
+*.config.js
+*.config.json
+.idea/*
+package-lock.json
